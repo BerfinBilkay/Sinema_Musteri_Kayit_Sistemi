@@ -27,16 +27,6 @@ Bu proje, bir sinema sistemi için müşteri, film ve salon yönetimini sağlaya
 
 ---
 
-## Proje Kurulumu
-1. Bu projeyi GitHub reposundan klonlayın:
-   bash
-   git clone https://github.com/username/sinema-musteri-kayit-sistemi.git
-   
-2. Java geliştirme ortamınızda (örneğin, IntelliJ IDEA veya Eclipse) projeyi açın.
-3. Main.java dosyasını çalıştırarak uygulamayı başlatın.
-
----
-
 ## Kullanım
 ### Uygulama Başlatıldığında:
 1. Yeni müşteri ekleyebilirsiniz.
